@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[developer ramblings]]></title>
-  <link href="http://www.gyan404.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: welcome | developer ramblings]]></title>
+  <link href="http://www.gyan404.com/blog/categories/welcome/atom.xml" rel="self"/>
   <link href="http://www.gyan404.com/"/>
   <updated>2014-02-22T14:12:05-05:00</updated>
   <id>http://www.gyan404.com/</id>
